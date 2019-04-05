@@ -1,11 +1,16 @@
 {
   "name": "geo-nepal",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A tiny package to list districts of Nepal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nabin Adhikari",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "Nepal",
+    "District",
+    "Province"
+  ]
 }
