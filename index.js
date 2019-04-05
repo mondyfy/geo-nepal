@@ -1,3 +1,3 @@
 const districts = require('./districts');
 
-module.exports = districts;
+module.exports = { districts };
