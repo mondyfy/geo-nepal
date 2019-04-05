@@ -1,6 +1,6 @@
 {
   "name": "geo-nepal",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A tiny package to list districts of Nepal.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "Nepal",
     "District",
     "Province"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nabinadhikari/geo-nepal.git"
+  }
 }
