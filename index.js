@@ -1,3 +1,3 @@
-const districts = require('./districts');
+const districts = require('./lib/districts');
 
 module.exports = { districts };
